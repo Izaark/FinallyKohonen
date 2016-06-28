@@ -1,0 +1,2 @@
+# FinallyKohonen
+artificial intelligence Kohonen
