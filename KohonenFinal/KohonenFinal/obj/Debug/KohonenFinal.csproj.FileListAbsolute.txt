@@ -1,0 +1,9 @@
+c:\users\isaac\documents\visual studio 2015\Projects\KohonenFinal\KohonenFinal\bin\Debug\KohonenFinal.exe.config
+c:\users\isaac\documents\visual studio 2015\Projects\KohonenFinal\KohonenFinal\bin\Debug\KohonenFinal.exe
+c:\users\isaac\documents\visual studio 2015\Projects\KohonenFinal\KohonenFinal\bin\Debug\KohonenFinal.pdb
+c:\users\isaac\documents\visual studio 2015\Projects\KohonenFinal\KohonenFinal\obj\Debug\KohonenFinal.csprojResolveAssemblyReference.cache
+c:\users\isaac\documents\visual studio 2015\Projects\KohonenFinal\KohonenFinal\obj\Debug\KohonenFinal.Form1.resources
+c:\users\isaac\documents\visual studio 2015\Projects\KohonenFinal\KohonenFinal\obj\Debug\KohonenFinal.Properties.Resources.resources
+c:\users\isaac\documents\visual studio 2015\Projects\KohonenFinal\KohonenFinal\obj\Debug\KohonenFinal.csproj.GenerateResource.Cache
+c:\users\isaac\documents\visual studio 2015\Projects\KohonenFinal\KohonenFinal\obj\Debug\KohonenFinal.exe
+c:\users\isaac\documents\visual studio 2015\Projects\KohonenFinal\KohonenFinal\obj\Debug\KohonenFinal.pdb
